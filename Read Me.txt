@@ -1,11 +1,15 @@
-﻿[KOR]
+[KOR]
 DirectX 11로 시작하는 3D 게임 프로그래밍 책의 예제 입니다.
 visual studio 2015(+windows kits = 비주얼 스튜디오 설치시 자동으로 설치됨)만 있으면 별도의 sdk 설치가 필요 없습니다.
+Windows 10 이상 지원.
+Windows 7이하는 빌드 불가능.
 [ENG]
 This project is book examples.(Introduction to 3D Game Programming: With Directx 11)
 build at windows10 using Windows Kits. you nead Visual Studio 2015. just run and click green button. :D
+Support for Windows 10 or later.
+Windows 7 and earlier are not buildable.
 
-목적 : 기존 책 예제가 최신 환경에서 구동이 제한되어 아래와 같은 환경에서 바로 실행 가능하게 만든 예제 입니다.
+목적 : 기존 책 예제가 최신 환경(Windows 10)에서 구동이 번거로워 아래와 같은 환경에서 바로 실행 가능하게 만든 예제 입니다.
 
 Build Environment
 - tool : Visual Studio 2015
